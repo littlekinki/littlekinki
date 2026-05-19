@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Kingsley
 
-<!--
-**littlekinki/littlekinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 What I'm doing right now
+- Learning Python programming
+- Building my first web projects
+- Documenting my journey here on GitHub
 
-Here are some ideas to get you started:
+## 📈 My 30-day goal
+- [ ] Build 3 Python projects
+- [ ] Make 1 commit every day
+- [ ] Learn enough to help other beginners
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I'm learning
+- Python
+- Git & GitHub
+- Web development basics
