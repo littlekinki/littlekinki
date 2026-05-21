@@ -16,7 +16,7 @@
 - Web development basics
 ## 🚀 My Live Projects
 
-### [My First Web App](https://y-first-web-app-4cztjprcux9ddysfmmc8mk.streamlit.app)
+[My First Web App](https://y-first-web-app-4cztjprcux9ddysfmmc8mk.streamlit.app)
 A Python web app built with Streamlit. Features:
 - Interactive text input
 - Date picker
