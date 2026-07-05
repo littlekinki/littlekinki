@@ -1,20 +1,17 @@
-# 👋 Hi, I'm Kingsley
+# 👋 Hi, I'm Mamah Kingsley
 
-## 🚀 What I'm doing right now
-- Learning Python programming
-- Building my first web projects
-- Documenting my journey here on GitHub
+## 🚀 About Me
+- 🎓 Computer Science graduate from University of Nigeria Nsukka
+- 💻 Passionate Python developer with AI/ML focus
+- 🏥 Building AI solutions for healthcare and agriculture
+- 🌱 Currently learning: Distributed Systems, Multimodal AI
 
-## 📈 My 30-day goal
-- [ ] Build 3 Python projects
-- [ ] Make 1 commit every day
-- [ ] Learn enough to help other beginners
+## 🛠️ Tech Stack
+- Python | PyTorch | OpenCV | Hugging Face
+- Git | Linux | NVIDIA DLI
 
-## 🛠️ Tools I'm learning
-- Python
-- Git & GitHub
-- Web development basics
-## 🚀 My Live Projects
+## 📌 Featured Projects
+- [Crop Doctor AI](https://github.com/littlekinki/crop-doctor-ai) - AI-powered crop disease detection
 
 [My First Web App](https://y-first-web-app-4cztjprcux9ddysfmmc8mk.streamlit.app)
 A Python web app built with Streamlit. Features:
